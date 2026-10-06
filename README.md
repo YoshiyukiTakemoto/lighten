@@ -1,7 +1,5 @@
-# Lighten Image Compressor
+# Moved
 
-Free image compressor and resizer. Converts to WebP, JPEG, PNG or AVIF, resizes, and strips EXIF metadata. Images never leave the device. English / 日本語.
+This tool is now part of **Plainkit**: https://yoshiyukitakemoto.github.io/lighten/ (日本語: https://yoshiyukitakemoto.github.io/ja/lighten/)
 
-https://yoshiyukitakemoto.github.io/lighten/
-
-Uses [JSZip](https://github.com/Stuk/jszip) (MIT) for ZIP downloads.
+Source: https://github.com/YoshiyukiTakemoto/yoshiyukitakemoto.github.io
